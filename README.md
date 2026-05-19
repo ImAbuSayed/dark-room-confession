@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dark-room-confession/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dark Room Confession](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-room-confession/) |
+| **Get License** | [Commercial Licensing for Dark Room Confession](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-room-confession/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `182def427fe0ebe73dd6bb656fa1e8733bcd1a38a47c8e5c1846e9912acd1f0a` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
