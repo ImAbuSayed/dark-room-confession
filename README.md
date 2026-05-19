@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dark-room-confession/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dark Room Confession](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-room-confession/) |
+| **Get License** | [Get a Licensing Quote for Dark Room Confession](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dark-room-confession/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri nigaah da nasha wild fire wangu machda
+> Kaale hanere vich neon glow ban jachda
+> Akhian de vaar ton young heart mera bachda
+> Jadon tu takkdi ae silent breath main karda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
